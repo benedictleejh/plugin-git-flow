@@ -24,8 +24,13 @@
 # --------------
 #
 # Copyright (c) 2012-2015 [Justin Hileman](http://justinhileman.com)
+# Copyright (c) 2022-2025 [Benedict Lee](https://github.com/benedictleejh)
 #
 # Distributed under the [MIT License](http://creativecommons.org/licenses/MIT/)
+
+## Load the original git completions
+
+status get-file completions/git.fish | source
 
 
 ## Support functions
